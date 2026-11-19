@@ -1,0 +1,81 @@
+/***fonts***/
+/* Pairing 1: Classic gourmet pantry */
+.classic h1,
+.classic h2 {
+  font-family: 'Playfair Display', serif;
+}
+
+.classic p {
+  font-family: 'Lato', sans-serif;
+}
+
+/* Pairing 2: Modern boutique */
+.modern h1,
+.modern h2 {
+  font-family: 'DM Serif Display', serif;
+}
+
+.modern p {
+  font-family: 'DM Sans', sans-serif;
+}
+
+/* Pairing 3: Bold headline */
+.bold h1,
+.bold h2 {
+  font-family: 'Abril Fatface', serif;
+}
+
+.bold p {
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+/* Handmade accents */
+.script {
+  font-family: 'Pacifico', cursive;
+}
+
+.chalk {
+  font-family: 'Amatic SC', cursive;
+}
+
+.quirky {
+  font-family: 'Fraunces', serif;
+}
+
+
+
+/***Fonts***/
+body {
+  font-family: 'Nunito', system-ui, sans-serif;
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Headings and the shop name */
+.font-display,
+h1,
+h2,
+h3 {
+  font-family: 'Shrikhand', Georgia, serif;
+  font-weight: 400 !important;
+  /* Shrikhand has one weight; this stops fake bold */
+  font-style: normal !important;
+  /* it is already slanted; this stops double slant */
+  letter-spacing: 0.01em;
+  line-height: 1.1;
+}
+
+/* Handwritten touches */
+.font-script {
+  font-family: 'Caveat', cursive;
+  font-size: 1.4em;
+}
+
+/* Small labels above headings */
+.eyebrow {
+  font-family: 'Nunito', sans-serif;
+  letter-spacing: 0.18em;
+}
+
+/***curser***/
